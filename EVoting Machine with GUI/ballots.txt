@@ -1,0 +1,5 @@
+4
+33333:Best Shoegaze:My Bloody Valentine,Catherine Wheel,Slowdive,Ride
+01010:Best Indie:Dinosaur JR.,Mewithoutyou,Hum,Mock Orange
+44444:Best Punk:Anti-Flag,NOFX,Minor Threat,Fugazi
+23234:Best Hardcore:Converge,Black Flag,Burning Love
